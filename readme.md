@@ -48,7 +48,7 @@ python DPLC.py
 ## 5. Pretrained Weight
 To enable quick reproduction, we release our pretrained BYOL backbone on Hugging Face. The CIFAR-10 encoder trained for 1000 epochs (Step 1) is already available — download it, pass the path to the `checkpoint` argument, and skip pre-training to go straight to DPLC training & evaluation. More pretrained BYOL weights for CIFAR-20 and STL-10 will be added if time permits. 
 
--[HuggingFace Link]<https://huggingface.co/tsnd7931/DPLC/tree/main>
+- [HuggingFace Link]<https://huggingface.co/tsnd7931/DPLC/tree/main>
 
 ## 6. Citation
 
